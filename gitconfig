@@ -1,0 +1,25 @@
+[user]
+	name = John Doe
+	email = johndoe@bangthetable.com
+[pull]
+	rebase = true
+[push]
+	default = current
+[rebase]
+        autosquash = true
+        autostash = true
+[fetch]
+	prune = true
+[github]
+	user = johndoe
+[rerere]
+	enabled = true
+[core]
+	excludesfile = ~/.gitignore
+	autocrlf = input
+[commit]
+        template = ~/.gitmessage
+[url "git@github.com:bangthetable/"]
+	insteadOf = gh:btt/
+[color]
+	ui = true
