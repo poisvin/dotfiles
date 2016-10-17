@@ -1,6 +1,6 @@
 [user]
-	name = John Doe
-	email = johndoe@bangthetable.com
+	name = vinu
+	email = vinu.r22@gmail.com
 [pull]
 	rebase = true
 [push]
@@ -11,7 +11,7 @@
 [fetch]
 	prune = true
 [github]
-	user = johndoe
+	user = vinu-r
 [rerere]
 	enabled = true
 [core]
